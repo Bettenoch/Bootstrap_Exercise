@@ -1218,6 +1218,10 @@ form {
   .contact_socialmedia {
     padding-bottom: 0;
   }
+
+  .form-control {
+    margin-bottom: 10px;
+  }
 }
 
 @media screen and (min-width: 850px) {
